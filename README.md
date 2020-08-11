@@ -1,6 +1,8 @@
 
 # `Font` 字体
 
+**当前项目仅供学习记录，不作任何商业用途！**
+
 - `FiraCode`
 
 - `Operator Mono`
@@ -38,7 +40,3 @@ git clone https://github.com/beichensky/Font.git
 ## 字体安装及在 `VSCode` 中配置
 
 可参考我的博客：[为 `VSCode` 设置好看的字体：`Operator Mono`](https://blog.csdn.net/zgd826237710/article/details/94137781#_19)
-
-## License
-
-GPL v3
